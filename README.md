@@ -5,7 +5,7 @@ Cervical cancer is one of the leading causes of death among Latin American women
 
 
 ## Objective: 
-To explore Pap test utilization and perceived barriers to cervical cancer screening attendance among nicaraguan immigrants and refugee women. 
+To explore Pap test utilization and perceived barriers to cervical cancer screening attendance among immigrants and refugee women living in San Jose, Costa Rica. 
 
 ## Methods: 
 Qualitative study. In-depth interviews were conducted among Nicaraguan immigrant women. The data collection instrument included questions on demographic characteristics, health insurance, health literacy, knowledge, attitudes and beliefs towards cervical cancer screening and barriers to screening.
