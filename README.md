@@ -16,6 +16,8 @@ The study has indicated a need for education on the necessity of screening among
 
 We call health care providers and policy makers to engage in efforts to address the need of awareness and better screening practices among women who recently immigrated in low and middle income countries. 
 
+We will be updating and translating our results to english once they are final. 
+
 
 ## Conclusion:
 Efforts to improve coverage need to emphasize women who recently immigrated and those with socioeconomic disadvantage.Culturally relevant screening strategies and programs that address these sociocultural factors must be developed to address the growing disparity in cervical cancer burden among underserved. 
